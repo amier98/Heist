@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heist", "Heist\Heist.csproj", "{72B918CC-4200-4F84-BD94-0A7F1A6124B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B918CC-4200-4F84-BD94-0A7F1A6124B1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{72B918CC-4200-4F84-BD94-0A7F1A6124B1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{72B918CC-4200-4F84-BD94-0A7F1A6124B1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{72B918CC-4200-4F84-BD94-0A7F1A6124B1}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8383CB09-D289-41F2-AF24-98D01ADD48AC}
+	EndGlobalSection
+EndGlobal
