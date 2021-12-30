@@ -1,0 +1,6 @@
+/Users/amierali/Projects/Heist/Heist/obj/Debug/Heist.csproj.AssemblyReference.cache
+/Users/amierali/Projects/Heist/Heist/obj/Debug/Heist.csproj.CoreCompileInputs.cache
+/Users/amierali/Projects/Heist/Heist/bin/Debug/Heist.exe
+/Users/amierali/Projects/Heist/Heist/bin/Debug/Heist.pdb
+/Users/amierali/Projects/Heist/Heist/obj/Debug/Heist.exe
+/Users/amierali/Projects/Heist/Heist/obj/Debug/Heist.pdb
